@@ -2,6 +2,7 @@
 title: "Variables | Front Matter"
 summary: List of Front Matter variables used by PaperMod
 date: 2021-01-20
+expiryDate: 2026-05-08
 tags: ["PaperMod", "Docs"]
 author: ["Aditya Telange"]
 draft: true
@@ -9,6 +10,8 @@ weight: 5
 social:
   fediverse_creator: "@adityatelange@mastodon.social"
 ---
+
+> This page is not updated anymore and is only kept for reference. Please refer to [Documentation](https://github.com/adityatelange/hugo-PaperMod/wiki/) for latest information.
 
 **Below are variables used with this theme...**
 

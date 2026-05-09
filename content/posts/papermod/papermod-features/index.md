@@ -2,6 +2,7 @@
 title: "Features / Mods"
 summary: Learn About All Features in PaperMod
 date: 2021-01-20
+expiryDate: 2026-05-08
 weight: 2
 aliases: ["/papermod-features"]
 tags: ["PaperMod", "Docs"]
@@ -9,6 +10,8 @@ author: ["Aditya Telange"]
 social:
   fediverse_creator: "@adityatelange@mastodon.social"
 ---
+
+> This page is not updated anymore and is only kept for reference. Please refer to [Documentation](https://github.com/adityatelange/hugo-PaperMod/wiki/) for latest information.
 
 ### Intro
 

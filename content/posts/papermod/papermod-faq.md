@@ -2,11 +2,16 @@
 title: "FAQs / How To's Guide"
 summary: We'll try to answer frequently asked qestions by users.
 date: 2021-01-20
+expiryDate: 2026-05-08
 aliases: ['/papermod-how-to-guide', '/posts/papermod/papermod-how-to']
 tags: ["PaperMod", "Docs"]
 author: ["PaperMod Contributors"]
 draft: true
 weight: 3
+---
+
+> This page is not updated anymore and is only kept for reference. Please refer to [Documentation](https://github.com/adityatelange/hugo-PaperMod/wiki/) for latest information.
+
 ---
 
 > - **We'll be using `yml/yaml` format for all examples down below, I recommend using `yml` over `toml` as it is easier to read.**
