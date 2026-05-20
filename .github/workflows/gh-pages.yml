@@ -8,7 +8,7 @@ on:
       - "README.md"
     branches:
       - master
-      - exampleSite
+      - source
   workflow_dispatch:
     # manual run
     inputs:
@@ -49,7 +49,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
         with:
-          ref: exampleSite
+          ref: source
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
