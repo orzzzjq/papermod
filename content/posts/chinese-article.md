@@ -17,4 +17,4 @@ tags: ["hugo", "audio", "video", "shortcodes", "HTML", "中文标签"]
 
 ## 图片:see_no_evil:
 
-![](./chinese-article/image.png)
+![](chinese-article/image.png)
