@@ -24,3 +24,14 @@ tags: ["hugo", "audio", "video", "shortcodes", "HTML", "中文标签"]
 <img src="/images/image.png" width="50px"></img>
 </p>
 
+## 视频
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <iframe width="360" 
+          height="640" 
+          frameborder="0" 
+          src="https://open.douyin.com/player/video?vid=7641452381837958885&autoplay=0" 
+          referrerpolicy="unsafe-url" 
+          allowfullscreen>
+  </iframe>
+</div>
