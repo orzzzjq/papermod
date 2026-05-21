@@ -28,7 +28,7 @@ tags: ["hugo", "audio", "video", "shortcodes", "HTML", "中文标签"]
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <iframe width="400" 
-          height="900" 
+          height="800" 
           frameborder="0" 
           src="https://open.douyin.com/player/video?vid=7641452381837958885&autoplay=0" 
           referrerpolicy="unsafe-url" 
@@ -36,6 +36,14 @@ tags: ["hugo", "audio", "video", "shortcodes", "HTML", "中文标签"]
   </iframe>
 </div>
 
-<iframe width="100%" 
-        height="0.6vw"  
-        src="//player.bilibili.com/player.html?isOutside=true&aid=116600158165998&bvid=BV14XLq64EQf&cid=38445449386&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<div style="width: 100%; aspect-ratio: 16 / 9;">
+    <iframe
+      style="width: 100%; height: 100%;"
+      src="//player.bilibili.com/player.html?isOutside=true&aid=116600158165998&bvid=BV14XLq64EQf&cid=38445449386&p=1&autoplay=0"
+      scrolling="no"
+      border="0"
+      frameborder="no"
+      framespacing="0"
+      allowfullscreen="true">
+    </iframe>
+  </div>
