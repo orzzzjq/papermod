@@ -27,7 +27,8 @@ tags: ["hugo", "audio", "video", "shortcodes", "HTML", "中文标签"]
 ## 视频
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
-  <iframe height="600px"
+  <iframe width="400" 
+          height="900" 
           frameborder="0" 
           src="https://open.douyin.com/player/video?vid=7641452381837958885&autoplay=0" 
           referrerpolicy="unsafe-url" 
