@@ -1,7 +1,8 @@
 ---
 title: "文章测试"
 date: 2026-05-20
-description: "文盲又在歹毒地学习。"
+description: "文盲又在歹毒地学习"
+summary: "文盲又在歹毒地学习"
 tags: ["hugo", "audio", "video", "shortcodes", "HTML", "中文标签"]
 ---
 
