@@ -35,3 +35,5 @@ tags: ["hugo", "audio", "video", "shortcodes", "HTML", "中文标签"]
           allowfullscreen>
   </iframe>
 </div>
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116600158165998&bvid=BV14XLq64EQf&cid=38445449386&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
