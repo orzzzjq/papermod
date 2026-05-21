@@ -18,6 +18,9 @@ tags: ["hugo", "audio", "video", "shortcodes", "HTML", "中文标签"]
 ## 图片:see_no_evil:
 
 ![](/images/image.png)
+<p align="center">
 <img src="/images/image.png" width="200px"></img>
 <img src="/images/image.png" width="100px"></img>
 <img src="/images/image.png" width="50px"></img>
+</p>
+
