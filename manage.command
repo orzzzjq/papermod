@@ -192,6 +192,8 @@ else
 
     if [[ "$SELECTED" -eq 0 ]]; then
         start_hugo_bg
+        printf "\nWhat would you like to do?\n\n"
+        select_option "Exit"
     fi
 fi
 
